@@ -5,3 +5,5 @@ The users of r/wallstreetbets initiated several short squeezes, pushing the stoc
 This report will provide some thoughts for investors who want to gain from next GME and BBBY. I will provide several strategies for achieving profit maximization while managing the risks.
 
 The analysis will mainly focus on history stock prices of GME and AMC.
+
+Technologies used: Python, Pandas, NumPy, Matplotlib, and yfinance
