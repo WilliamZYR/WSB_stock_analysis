@@ -6,5 +6,15 @@ This report will provide some thoughts for investors who want to gain from next 
 
 The analysis will mainly focus on history stock prices of GME and AMC.
 
+<br>
 
-* Technologies used: Python, Pandas, NumPy, Matplotlib, and yfinance
+**Language:**
+- Python
+
+<br>
+
+**Technology Used:**
+- Pandas
+- Numpy
+- Yahoo Finance
+- Matplotlib
